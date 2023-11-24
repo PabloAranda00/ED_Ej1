@@ -7,6 +7,7 @@ public class ED_Ej1parte2 {
 
 		
 		System.out.println("cantante");
+		System.out.println("pablo");
 	}
 
 }
